@@ -43,29 +43,6 @@ A Machine Learning model that predicts used car prices using historical data.
 
 ---
 
-## 📊 Offline Sales Analytics Dashboard
-
-A desktop application that analyses employee sales reports completely offline.
-
-### Features
-
-- Monthly Sales Analysis
-- Employee Performance Dashboard
-- Excel Report Import
-- SQLite Database
-- Interactive Charts
-
-**Tech Stack**
-
-- React
-- Electron
-- Rust
-- SQLite
-- Tailwind CSS
-- ECharts
-
----
-
 ## 📈 India Unemployment Dashboard
 
 A responsive dashboard that visualises unemployment statistics across India.
