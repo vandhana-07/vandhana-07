@@ -77,23 +77,6 @@ A used-car price prediction project that compares Linear Regression, Random Fore
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vandhana-07&show_icons=true&theme=github_dark&hide_border=true" alt="Vandhana's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandhana-07&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
-
----
-
-## 🌱 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vandhana-07&theme=github-dark&hide_border=true" alt="GitHub contribution activity graph" />
-</p>
-
----
-
 <div align="center">
 
 ## ⭐ Thanks for visiting my GitHub profile!
