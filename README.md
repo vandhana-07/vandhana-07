@@ -27,7 +27,7 @@ I believe the best way to learn is by building.
 
 ## 📂 Featured Projects
 
-### 🛰️ [COLDSTART — SEDHACKS '26](https://github.com/vandhana-07/COLDSTART)
+### 🛰️ [COLDSTART](https://github.com/vandhana-07/COLDSTART)
 
 A flight-day power and thermal autonomy planner for near-space payloads. It models coupled heat and power, searches for viable designs within cost and weight limits, and supports sensitivity and stress-scenario analysis.
 
